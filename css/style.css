@@ -1,0 +1,213 @@
+.message{
+	height: 120px;
+	padding: 2rem 3rem;
+	background-color: black;
+	color: white;
+	text-align: center;
+	
+}
+
+.carousel{
+	height: 550px;
+}
+
+.navigationbar{
+	background-color: black;
+
+}
+
+.navigationbar a{
+	color: white;
+}
+
+.btn{
+	background-color: #eb2a2b;
+}
+.first{
+	margin-left: 40px;
+}
+
+.search{ 
+	padding: 45px 0px;
+	height: 490px;
+	background-color: #da0807;
+}
+
+.cover{
+	margin-left: 40px;
+	width: 1200px;
+	
+}
+.blooddonationsearch{
+	height: 400px;
+	width: 800px;
+	background-color: white;
+	padding: 60px 30px;
+	margin: 0px 0px;
+	text-align: center;
+	position: absolute;
+}
+h3{
+	text-align: center;
+}
+label{
+
+  width: 100px;
+  
+}
+.a{
+	margin-left: 20px;
+	width: 300px;
+}
+.register{
+	text-align: center;
+	padding: 50px;
+	height: 400px;
+	width: 400px;
+	background-color: white;
+	position: relative;
+	left: 860px;
+
+}
+
+.about{
+	height: 610px;
+	background-color: grey;
+	
+}
+.box{
+	
+	position: absolute; 
+	margin-top: 60px;
+	margin-left: 30px;
+
+	
+}
+
+.bloodcompatible{
+	text-align: center;
+	padding: 0px 30px;
+	padding-top: 50px;
+	position: absolute;
+	height: 500px;
+	width: 500px;
+	background-color: white;
+}
+
+.information{
+	position: relative;
+	margin-left: 560px;
+	color: white;
+	height: 500px;
+	width: 700px;
+	padding: 0px 30px;
+	padding-top: 50px;
+	text-align: justify;
+	background-color: darkgrey; 
+
+}
+
+.contact{
+	height: 610px ;
+	background-color: #ebecee;
+	position: absolute;
+}
+
+.formbox{
+	margin-left: 100px;
+	margin-top: 30px;
+	height: auto;
+	width: 500px;
+	
+	padding: 20px 40px;
+	position: absolute;
+
+}
+.contact-form {
+	width: 400px;
+	border-radius: 20px;
+	
+}
+
+.contactus{
+	height: 480px;
+	width: 600px;
+	margin-top: 50px; 
+	margin-left: 620px;
+	
+	position: relative;
+}
+
+.phonenumbers{
+	height: 250px;
+	width: 550px;
+	background-color: white;
+	margin: 30px 30px;
+	
+}
+
+.contactnumbers{
+	height: 250px;
+	width: 250px;
+	
+	position: relative;
+	float: right;
+	margin-top: 40px;
+	margin-right:  10px;
+}
+
+.logo{
+	
+	margin: 0px 20px;
+	margin-top: 20px;
+ position: absolute;
+}
+
+.socialmedia{
+	height: 120px;
+	width: 550px;
+	
+	margin-left: 30px;
+	position: absolute;
+}
+.icons{
+	height: 60px;
+	width: 250px;
+	margin-top: 30px;
+	margin-left: 250px;
+	
+}
+.fb{
+	height: 60px;
+	width: 60px;
+	
+	position: absolute;
+}
+.twitter{
+	height: 60px;
+	width: 60px;
+	
+	margin-left: 80px;
+	position: absolute;
+}
+
+.insta{
+	height: 60px;
+	width: 60px;
+	
+	margin-left: 160px;
+}
+
+
+h4{
+	position:absolute;
+	margin-top: 40px;
+	margin-left: 20px;
+}
+
+.last{
+	
+	background-color: black;
+	width: 100%;
+	height: 50px;
+}
